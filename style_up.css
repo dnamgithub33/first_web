@@ -58,7 +58,7 @@ section .information .form .input-form input{
      background: transparent;
      border-radius: 30px;
      }
- section .information .form .input-form input[type="submit"]{
+ /*section .information .form .input-form input[type="submit"]{
      background: #dfb47d;
      color: rgb(0, 0, 0);
      outline: none;
@@ -70,8 +70,8 @@ section .information .form .input-form input{
                 0 4px 4px rgba(0,0,0,0.12),
                0 8px 8px rgba(0,0,0,0.12),
                0 16px 16px rgba(0,0,0,0.12);
- }
- section .information .form .input-form button{
+ }*/
+ section .information .form .input-form button[type="submit"]{
 	background: #dfb47d;
 	color: rgb(0, 0, 0);
 	outline: none;
