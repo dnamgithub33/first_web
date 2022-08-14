@@ -32,7 +32,9 @@
 				<input type="password" name="repassword">
 			</div>
 			<div class="input-form">
-				<input type="submit" value="Sign up">
+				<button type="submit" name="submit">
+					Sign up
+				</button>
 			</div>
 		</form>
 		</div>
